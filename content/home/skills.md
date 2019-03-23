@@ -27,6 +27,12 @@ subtitle = ""
   description = "Intermediate"
 
 [[feature]]
+  icon = "brain"
+  icon_pack = "fas"
+  name = "Deep learning"
+  description = "Intermediate"
+
+[[feature]]
   icon = "git"
   icon_pack = "fab"
   name = "Git"
