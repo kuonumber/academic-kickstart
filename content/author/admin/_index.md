@@ -16,7 +16,7 @@ role = "Data scientist"
 organizations = [ { name = "Microprogram", url = "https://www.program.com.tw/" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Please call me “Jimmy,Kuo” or JK. I am a Data enthusiast."
+bio = "Please call me Jimmy,Kuo or JK. I am a Data enthusiast."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
@@ -83,4 +83,4 @@ user_groups = ["Supervisor"]
 
 +++
 
-
+Get your hands dirty
