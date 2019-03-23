@@ -22,7 +22,7 @@ subtitle = ""
   
 [[feature]]
   icon = "analytics"
-  icon_pack = "fas"
+  icon_pack = "fal"
   name = "Machine learning"
   description = "Intermediate"
 
