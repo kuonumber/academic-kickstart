@@ -1,5 +1,5 @@
 +++
-active = falese  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 
 
 # Contact widget.
