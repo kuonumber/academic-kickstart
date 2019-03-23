@@ -17,7 +17,7 @@ subtitle = ""
 [[feature]]
   icon = "python"
   icon_pack = "fab"
-  name = "python"
+  name = "Python"
   description = "Upper Intermediate	" 
   
 [[feature]]
@@ -38,4 +38,11 @@ subtitle = ""
   name = "Docker"
   description = "Elementary" 
 
+[[feature]]
+  icon = "tasks"
+  icon_pack = "fas"
+  name = "Scrum"
+  description = "Elementary"
+
 +++
+

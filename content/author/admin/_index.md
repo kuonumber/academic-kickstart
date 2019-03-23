@@ -25,8 +25,8 @@ email = ""
 interests = [
   "Compter Version",
   "Machine learning",
-  "Agile -Scrum",
-  "Hackason"
+  "Agile - Scrum",
+  "Python"
 ]
 
 # Organizational groups that you belong to (for People widget)
