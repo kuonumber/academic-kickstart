@@ -1,5 +1,6 @@
 +++
 title = "Recent & Upcoming Talks"
+active = false  # Activate this widget? true/false
 
 # View.
 #   1 = List
