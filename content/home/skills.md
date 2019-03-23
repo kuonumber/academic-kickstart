@@ -21,8 +21,8 @@ subtitle = ""
   description = "Upper Intermediate	" 
   
 [[feature]]
-  icon = "analytics"
-  icon_pack = "fal"
+  icon = "laptop-code"
+  icon_pack = "fas"
   name = "Machine learning"
   description = "Intermediate"
 
