@@ -1,7 +1,14 @@
----
-title: "First"
-date: 2019-03-23T18:44:48+08:00
-draft: true
----
+
++++
+title = "Posts"
+
+# View.
+#   1 = List
+#   2 = Compact
+#   3 = Card
+view = 2
++++
+
+
 
 hello my friend!
