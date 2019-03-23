@@ -56,22 +56,22 @@ user_groups = ["Supervisor"]
 
 [[social]]
     icon = "twitter"
-    icon_pack = "fa"
+    icon_pack = "fab"
     link = "https://twitter.com/kuonumber"
 
 [[social]]
     icon = "facebook"
-    icon_pack = "fa"
+    icon_pack = "fab"
     link = "https://www.facebook.com/haochieh.kuo"
 
 [[social]]
     icon = "github"
-    icon_pack = "fa"
+    icon_pack = "fab"
     link = "https://github.com/kuonumber"
 
 [[social]]
     icon = "linkedin"
-    icon_pack = "fa"
+    icon_pack = "fab"
     link = "https://www.linkedin.com/in/kuohaochieh/"
 
 # Link to a PDF of your resume/CV from the About widget.
