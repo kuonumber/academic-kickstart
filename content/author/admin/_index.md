@@ -54,15 +54,15 @@ user_groups = ["Supervisor"]
     icon_pack = "fa"
     link = "mailto:v7368858@gmail.com"
 
-[[social]]
-    icon = "twitter"
-    icon_pack = "fab"
-    link = "https://twitter.com/kuonumber"
+#[[social]]
+#    icon = "twitter"
+#    icon_pack = "fab"
+#    link = "https://twitter.com/kuonumber"
 
-[[social]]
-    icon = "facebook"
-    icon_pack = "fab"
-    link = "https://www.facebook.com/haochieh.kuo"
+#[[social]]
+#    icon = "facebook"
+#    icon_pack = "fab"
+#    link = "https://www.facebook.com/haochieh.kuo"
 
 [[social]]
     icon = "github"
