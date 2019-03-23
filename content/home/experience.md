@@ -27,9 +27,9 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
   
-  * Data collection,preprocess and analysis(with visualization techniques).
+  * Data collection, preprocess and analysis (with visualization techniques).
   * Training, testing and deploying models. 
-  * Collaborating with other dev/ops/business teams.
+  * Collaborating with dev/ops/business teams.
   """
 
 +++
