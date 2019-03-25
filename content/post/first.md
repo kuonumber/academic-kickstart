@@ -1,6 +1,6 @@
 
 +++
-title = "test"
+title = "Welcome"
 
 # View.
 #   1 = List
