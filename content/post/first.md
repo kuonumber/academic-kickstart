@@ -10,11 +10,11 @@ view = 3
 +++
 
 
-python使用物件導向程式設計，
-起手式，利用class關鍵字宣告(描述)你的物件，
-物件會有名稱(class name)、特徵 (attributes)、還有行為 methods，
-以下列程式碼來看，People是物件的名稱，name & phone 是特徵，
-print_profile是你給予這個物的動作，進而得到你想要的結果。
+python使用物件導向程式設計，  
+起手式，利用class關鍵字宣告(描述)你的物件，  
+物件會有名稱(class name)、特徵 (attributes)、還有行為 methods，  
+以下列程式碼來看，People是物件的名稱，name & phone 是特徵，  
+print_profile是你給予這個物的動作，進而得到你想要的結果。  
 
 ```python
 
