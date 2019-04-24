@@ -1,10 +1,12 @@
-+++ title = "資料科學筆記"
++++
+title = "Python Basic oop No.1"
 
-View.
-1 = List
-2 = Compact
-3 = Card
-view = 3 +++
+# View.
+#   1 = List
+#   2 = Compact
+#   3 = Card
+view = 3
++++
 
 ### 筆記統整
   * 整理搜尋到的資訊
