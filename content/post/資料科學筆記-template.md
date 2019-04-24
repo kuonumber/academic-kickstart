@@ -1,5 +1,5 @@
 +++
-title = "Python Basic oop No.1"
+title = "資料科學筆記-template"
 
 # View.
 #   1 = List
