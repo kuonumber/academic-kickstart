@@ -1,5 +1,5 @@
 +++
-title = "資料科學筆記-template"
+title = "資料科學筆記-outlier(離群值)"
 
 # View.
 #   1 = List
