@@ -9,7 +9,7 @@ view = 3
 +++
 
 ## 筆記統整
-  * 最近參加資料百日挑戰賽，在第六天提到的離群值，提供兩篇參考資料：
+  * 最近參加資料百日挑戰賽，在第六天提到的離群值，提供兩篇參考資料：  
   １. [Ways to Detect and Remove the Outliers](https://towardsdatascience.com/ways-to-detect-and-remove-the-outliers-404d16608dba)  
   ２. [How to Use Statistics to Identify Outliers in Data](https://machinelearningmastery.com/how-to-use-statistics-to-identify-outliers-in-data/)  
 ###  "Ｗays to detect" 文章當中提到幾種檢驗outliers的方式：
