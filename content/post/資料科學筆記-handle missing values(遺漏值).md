@@ -29,7 +29,7 @@ view = 3
   [Multiple imputation](https://en.wikipedia.org/wiki/Imputation_(statistics))也是種常見的補值方式，方法簡述如下：先建立回歸模型並用之產生幾個normal distributions，隨機從各個distribution當中抽樣輪流補值，然後分析各個補值結果進行分析，利用多次迭代使結果趨向穩定並得到適當估計(填補)值。     
 
 ### 經驗連結
-  * 刪除的方式有幾種：1. 直接刪除整個column 2. 只刪除某幾個rows
+  * 刪除的方式有幾種：1. 直接刪除整個column 2. 只刪除某幾個rows  
   後續研讀:
   * [A review of techniques for treating missing data in OM survey research](http://edmeasurement.net/5245/Tsikriktsis-2005.pdf)
   * [Missing Data Conundrum: Exploration and Imputation Techniques](https://medium.com/ibm-data-science-experience/missing-data-conundrum-exploration-and-imputation-techniques-9f40abe0fd87)
