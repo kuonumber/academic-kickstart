@@ -1,0 +1,20 @@
++++
+title = "資料科學筆記-Kernel density estimation"
+
+# View.
+#   1 = List
+#   2 = Compact
+#   3 = Card
+view = 3
++++
+
+### 筆記統整
+  1. [PDF-機率密度函數](https://www.youtube.com/watch?v=L9rxyLcb-gE)
+  2. [KDE - VIZ](https://mathisonian.github.io/kde/)
+  3. [核密度估计](https://lotabout.me/2018/kernel-density-estimation/#%E6%A0%B8%E5%AF%86%E5%BA%A6%E4%BC%B0%E8%AE%A1)
+  4. [一维数据可视化](http://blog.shaochuancs.com/statistics-kde/)  
+  * kernel 是用來給與**數值權重**的方法，KDE基於PDF的概念延伸，有數據的地方為波峰，曲線下的機率密度(面積)和為1。波形會受到Bandwidth的大小影響，越小越尖(包含的數值越相近，變異數越小)，越大則坡度趨緩(包含不同數值的越多，發生機率較分散)。
+### 經驗連結
+
+### 程式實作
+  * [sklearn 的 Density Estimation實作](https://scikit-learn.org/stable/modules/density.html
