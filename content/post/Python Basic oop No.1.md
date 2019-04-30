@@ -1,7 +1,8 @@
 
 +++
 title = "Python Basic oop No.1"
-
+date = 2019-04-01 
+tags = ["python", "oop"]
 # View.
 #   1 = List
 #   2 = Compact
