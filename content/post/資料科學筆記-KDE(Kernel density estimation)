@@ -18,3 +18,4 @@ view = 3
 
 ### 程式實作
   * [sklearn 的 Density Estimation實作](https://scikit-learn.org/stable/modules/density.html
+  * [kde example](https://gist.github.com/kuonumber/9dea733e4a67a046e769a7ca01f71969)
