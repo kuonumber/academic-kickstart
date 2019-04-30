@@ -1,6 +1,6 @@
 +++
 title = "資料科學筆記-outlier(離群值)"
-
+date = 2019-04-26
 # View.
 #   1 = List
 #   2 = Compact
